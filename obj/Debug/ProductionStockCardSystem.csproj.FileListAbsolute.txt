@@ -1,0 +1,15 @@
+C:\Users\ikhsan\source\repos\ProductionStockCardSystem\ProductionStockCardSystem\bin\Debug\ProductionStockCardSystem.exe.config
+C:\Users\ikhsan\source\repos\ProductionStockCardSystem\ProductionStockCardSystem\bin\Debug\ProductionStockCardSystem.exe
+C:\Users\ikhsan\source\repos\ProductionStockCardSystem\ProductionStockCardSystem\bin\Debug\ProductionStockCardSystem.pdb
+C:\Users\ikhsan\source\repos\ProductionStockCardSystem\ProductionStockCardSystem\obj\Debug\ProductionStockCardSystem.stock_card.resources
+C:\Users\ikhsan\source\repos\ProductionStockCardSystem\ProductionStockCardSystem\obj\Debug\ProductionStockCardSystem.Properties.Resources.resources
+C:\Users\ikhsan\source\repos\ProductionStockCardSystem\ProductionStockCardSystem\obj\Debug\ProductionStockCardSystem.csproj.GenerateResource.cache
+C:\Users\ikhsan\source\repos\ProductionStockCardSystem\ProductionStockCardSystem\obj\Debug\ProductionStockCardSystem.csproj.CoreCompileInputs.cache
+C:\Users\ikhsan\source\repos\ProductionStockCardSystem\ProductionStockCardSystem\obj\Debug\ProductionStockCardSystem.exe
+C:\Users\ikhsan\source\repos\ProductionStockCardSystem\ProductionStockCardSystem\obj\Debug\ProductionStockCardSystem.pdb
+C:\Users\ikhsan\source\repos\ProductionStockCardSystem\ProductionStockCardSystem\obj\Debug\ProductionStockCardSystem.material_search.resources
+C:\Users\ikhsan\source\repos\ProductionStockCardSystem\ProductionStockCardSystem\obj\Debug\ProductionStockCardSystem.RegisterIN.resources
+C:\Users\ikhsan\source\repos\ProductionStockCardSystem\ProductionStockCardSystem\obj\Debug\ProductionStockCardSystem.RegisterIOUT.resources
+C:\Users\ikhsan\source\repos\ProductionStockCardSystem\ProductionStockCardSystem\obj\Debug\ProductionStockCardSystem.MovementReport.resources
+C:\Users\ikhsan\source\repos\ProductionStockCardSystem\ProductionStockCardSystem\obj\Debug\ProductionStockCardSystem.StockReport.resources
+C:\Users\ikhsan\source\repos\ProductionStockCardSystem\ProductionStockCardSystem\obj\Debug\ProductionStockCardSystem.csprojAssemblyReference.cache
